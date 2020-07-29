@@ -1,0 +1,4 @@
+/Users/gubin/backup/Pirvate Backup/01.my_python_project/100.pytorch/PyTorch-yolov3-with-train/data/coco_images_sample/images/val2014/COCO_val2014_000000000164.jpg
+/Users/gubin/backup/Pirvate Backup/01.my_python_project/100.pytorch/PyTorch-yolov3-with-train/data/coco_images_sample/images/val2014/COCO_val2014_000000000192.jpg
+/Users/gubin/backup/Pirvate Backup/01.my_python_project/100.pytorch/PyTorch-yolov3-with-train/data/coco_images_sample/images/val2014/COCO_val2014_000000000283.jpg
+/Users/gubin/backup/Pirvate Backup/01.my_python_project/100.pytorch/PyTorch-yolov3-with-train/data/coco_images_sample/images/val2014/COCO_val2014_000000000397.jpg
